@@ -19,10 +19,10 @@ A robust and modular RESTful API for a Bookstore application, built using **Java
 ## 📷 Screenshots
 
 #### 🔐 Signup
-![Signup](signup.png)
+![Signup](Signup.png)
 
 #### 🔐 Login
-![Login](Login (1).png)
+![Login](Login.png)
 
 #### 📖 Get Book By ID
 ![Book By ID](bookinfo.png)
@@ -30,6 +30,9 @@ A robust and modular RESTful API for a Bookstore application, built using **Java
 #### Dashboard/homepage
 ![Exception](homepage.png)
 
+
+#### Dashboard/interface
+![Exception](interface.png)
 
 ## ✅ Features
 
