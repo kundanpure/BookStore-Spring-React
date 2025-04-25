@@ -1,0 +1,94 @@
+.book-details {
+    padding-bottom: 40px;
+  }
+  
+  .book-details-header {
+    margin-bottom: 30px;
+  }
+  
+  .back-link {
+    display: inline-block;
+    color: #4a69bd;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
+  .back-link:hover {
+    text-decoration: underline;
+  }
+  
+  .book-details-content {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+  
+  @media (min-width: 768px) {
+    .book-details-content {
+      flex-direction: row;
+    }
+  }
+  
+  .book-details-image {
+    background-color: #f0f0f0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+  }
+  
+  .book-image-placeholder {
+    font-size: 100px;
+    color: #666;
+  }
+  
+  .book-details-info {
+    padding: 30px;
+    flex: 1;
+  }
+  
+  .book-details-info h1 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .book-author {
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  .book-meta {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    margin-bottom: 30px;
+  }
+  
+  .book-category,
+  .book-price,
+  .book-rating,
+  .book-published {
+    color: #555;
+  }
+  
+  .book-category span,
+  .book-price span,
+  .book-rating span,
+  .book-published span {
+    font-weight: 500;
+    color: #333;
+  }
+  
+  .book-actions {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .btn.btn-danger.confirm {
+    background-color: #c0392b;
+  }
