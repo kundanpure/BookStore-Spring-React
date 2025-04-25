@@ -28,10 +28,10 @@ A robust and modular RESTful API for a Bookstore application, built using **Java
 ![Book By ID](BookInfo.png)
 
 #### Dashboard/homepage
-![Exception](Homepage.png)
+![Homepage](Homepage.png)
 
 #### Dashboard/AddBook
-![Exception](Addbook.png)
+![Addbook](Addbook.png)
 
 
 #### Dashboard/interface
