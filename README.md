@@ -1,4 +1,4 @@
-# 📚 Bookstore RESTful API
+# 📚 Bookstore FullStack( Spring Boot + React)
 
 A robust and modular RESTful API for a Bookstore application, built using **Java Spring Boot** as part of a backend developer assignment. This API enables book and user management with features like JWT authentication, CRUD operations, filtering, search, pagination, and interactive Swagger documentation.
 
